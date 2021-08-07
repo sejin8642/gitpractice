@@ -24,6 +24,3 @@ class fib():
         
         self.n -= 1
         return self.output
-
-for i in fib(101):
-    print(i)
